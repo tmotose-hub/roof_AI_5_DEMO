@@ -6,3 +6,5 @@ opencv-python-headless
 numpy
 Pillow
 python-multipart
+onnx
+onnxruntime
